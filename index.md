@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## DUT Media Lab
 
 You can use the [editor on GitHub](https://github.com/dut-media-lab/dut-media-lab.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
